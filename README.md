@@ -37,27 +37,7 @@ pip install numpy pandas matplotlib seaborn scipy scikit-learn
 The repository is structured as follows:
 
 ```
-├── notebooks
-│   ├── linear_algebra
-│   │   ├── vectors.ipynb
-│   │   ├── matrices.ipynb
-│   │   └── eigenvalues_eigenvectors.ipynb
-│   ├── calculus
-│   │   ├── differentiation.ipynb
-│   │   ├── integration.ipynb
-│   │   └── multivariable_calculus.ipynb
-│   ├── probability
-│   │   ├── probability_theory.ipynb
-│   │   ├── distributions.ipynb
-│   │   └── bayesian_statistics.ipynb
-│   ├── statistics
-│   │   ├── descriptive_statistics.ipynb
-│   │   ├── inferential_statistics.ipynb
-│   │   └── hypothesis_testing.ipynb
-│   └── README.md
-├── data
-│   └── sample_datasets
-└── README.md
+
 ```
 
 ## Getting Started
