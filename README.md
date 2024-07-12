@@ -1,6 +1,3 @@
-Here's a sample README file for your repository:
-
----
 
 # Deep Learning Mathematics and Statistics Study Material
 
