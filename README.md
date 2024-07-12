@@ -87,27 +87,16 @@ jupyter notebook
 
 ### Linear Algebra
 
-- `vectors.ipynb`: Introduction to vectors and operations on vectors.
-- `matrices.ipynb`: Comprehensive guide to matrices, operations, and properties.
-- `eigenvalues_eigenvectors.ipynb`: Understanding eigenvalues and eigenvectors and their importance.
 
 ### Calculus
 
-- `differentiation.ipynb`: Basics of differentiation and its applications.
-- `integration.ipynb`: Fundamentals of integration and techniques.
-- `multivariable_calculus.ipynb`: Extending calculus to multiple variables.
 
 ### Probability
 
-- `probability_theory.ipynb`: Core concepts of probability theory.
-- `distributions.ipynb`: Common probability distributions and their properties.
-- `bayesian_statistics.ipynb`: Introduction to Bayesian statistics.
 
 ### Statistics
 
-- `descriptive_statistics.ipynb`: Methods to summarize and describe data.
-- `inferential_statistics.ipynb`: Making inferences from data samples.
-- `hypothesis_testing.ipynb`: Techniques for hypothesis testing.
+
 
 ## Contributing
 
@@ -119,12 +108,10 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 ## Contact
 
-For any questions or feedback, please reach out to [your email](mailto:youremail@example.com).
+For any questions or feedback, please reach out to [your email](mailto:tsuresh1983@gmail.com).
 
 ---
 
 Happy learning!
 
 ---
-
-Feel free to customize this template according to your specific needs and preferences.
