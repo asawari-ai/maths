@@ -108,7 +108,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 ## Contact
 
-For any questions or feedback, please reach out to [your email](mailto:tsuresh1983@gmail.com).
+For any questions or feedback, please reach out to [my email](mailto:tsuresh1983@gmail.com).
 
 ---
 
