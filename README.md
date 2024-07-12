@@ -1,2 +1,2 @@
 # maths
-Mathematic and statistics for Deep Learning
+Mathematics and statistics for Deep Learning
